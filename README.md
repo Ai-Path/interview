@@ -6,4 +6,8 @@ Assume you are testing a chatbot that is designed to help users about the laws a
 
 ### Data:
 
-Data is consist of a CSV file with 3 columns. First column is the question, the second column is the related article and the third column is the answer of the chatbot.
+Data is consist of a CSV file with 3 columns. First column is the question, the second column is the related article and the third column is the answer of the chatbot. [File](data/chatbot_data.csv) is located in the data folder.
+
+### Solution:
+
+Add your solution to the `solutions` folder.
