@@ -2,7 +2,7 @@
 
 ## Question:
 
-Assume you are testing a chatbot that is designed to help users about the laws and regulations about a country. You are given a list of questions and expectetd answers. You are asked to write a program that utilizes the OpenAI API to validate the answers of the chatbot.
+Assume you are testing a chatbot that is designed to help users about the laws and regulations about a country. You are given a list of questions and expected answers. You are asked to write a program that utilizes the OpenAI API to validate the answers of the chatbot.
 
 ### Data:
 
